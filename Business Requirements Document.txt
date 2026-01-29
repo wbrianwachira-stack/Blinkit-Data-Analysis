@@ -1,0 +1,19 @@
+1. Project Overview
+The objective of this project is to conduct a comprehensive analysis of the sales dataset of Blinkit
+ to unearth the company's sales performance, customer satisfaction, and inventory distribution. 
+The the use of a number of visualizations and KPI's, the project will be able to highlight insights and optimization opportunities for the company.
+
+2. Key Performance Indicators (KPIs)
+To measure success, the following primary metrics were identified:
+Total Sales: Overall revenue generated from all items sold.
+Average Sales: The mean revenue per transaction.
+Number of Items: Total count of unique items sold in the inventory.
+Average Rating: The mean customer rating for items sold.
+
+3. Visual Requirements & Business Logic
+The dashboard must address the following business questions:
+Fat Content Analysis: How does fat content (Low Fat vs. Regular) affect total sales and customer ratings? (Donut Chart)
+Item Type Performance: Which product categories drive the most revenue? (Bar Chart)
+Outlet Performance: How do sales vary across different outlet sizes, locations, and establishment years? (Stacked Column/Line/Pie Charts)
+Geographic Distribution: What is the sales spread across different tiers of cities? (Funnel Map)
+Granular Metrics: A comprehensive breakdown of all KPIs by Outlet Type. (Matrix Card)
